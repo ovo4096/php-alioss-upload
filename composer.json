@@ -1,0 +1,13 @@
+{
+    "name": "ovo4096/php-alioss-upload",
+    "description": "php backend of vue-alioss-upload",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ovo4096",
+            "email": "ovo4096@gmail.com"
+        }
+    ],
+    "require": {}
+}
