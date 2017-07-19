@@ -9,5 +9,8 @@
             "email": "ovo4096@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "AliyunOSS\\Upload\\" : "src/" }
+    },
     "require": {}
 }
