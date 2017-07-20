@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "AliyunOSS\\Upload\\" : "src/" }
+        "psr-4": { "ovo4096\\Aliyun\\OSS\\Upload\\" : "src/" }
     },
     "require": {}
 }
