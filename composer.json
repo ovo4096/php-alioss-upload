@@ -10,7 +10,14 @@
         }
     ],
     "autoload": {
-        "psr-4": { "ovo4096\\Aliyun\\OSS\\Upload\\" : "src/" }
+        "psr-4": { "ovo4096\\Aliyun\\OSS\\" : "src/" }
     },
-    "require": {}
+    "autoload-dev": {
+        "psr-4": {
+            "ovo4096\\Aliyun\\OSS\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    }
 }
